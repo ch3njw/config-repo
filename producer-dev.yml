@@ -16,4 +16,3 @@ feign:
   hystrix:
     enabled: true
     
-name: ch3njw
