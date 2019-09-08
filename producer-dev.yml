@@ -4,12 +4,6 @@ server:
 spring:
   application:
     name: spring-cloud-producer
-  # 用于git config-repo配置自动刷新
-  rabbitmq:
-    host: localhost
-    port: 5672
-    username: guest
-    password: guest
 
 # Eureka 相关配置
 eureka:
